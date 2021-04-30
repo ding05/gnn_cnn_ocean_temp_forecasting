@@ -1,6 +1,6 @@
 # Marine Heatwave Forecasting
 
-These notebooks were created for the project: machine learning for seasonal marine heatwave forecasts.
+The project is machine learning for seasonal marine heatwave forecasts. These notebooks are used in the exploratory stage.
 
 ## Datset
 
