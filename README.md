@@ -1,4 +1,4 @@
-# Marine Heatwave Forecasting EDA
+# Marine Heatwave Forecasting Preliminary Experiments
 
 The project is machine learning for seasonal marine heatwave forecasts. These notebooks are used in the exploratory stage.
 
