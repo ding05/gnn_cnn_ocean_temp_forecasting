@@ -1,4 +1,4 @@
-# Marine Heatwave Forecasting Preliminary Experiments
+# Marine Heatwave Forecasting Exploratory Analysis and Experiments
 
 The project is machine learning for seasonal marine heatwave forecasts. These notebooks are used in the exploratory stage.
 
