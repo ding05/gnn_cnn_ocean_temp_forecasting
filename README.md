@@ -1,4 +1,4 @@
-# Graph Neural Network and Convolutional Neural Network for Marine Heatwave Forecasting Exploratory Experiments
+# Graph Neural Network and Convolutional Neural Network for Marine Heatwave Forecasting
 
 The project is machine learning for seasonal marine heatwave forecasts. These notebooks are used in the exploratory stage.
 
