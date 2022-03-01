@@ -6,6 +6,8 @@ The project is machine learning for seasonal marine heatwave forecasts. These no
 
 [GODAS](https://www.cpc.ncep.noaa.gov/products/GODAS/)
 
+[SODA](http://www.soda.umd.edu/)
+
 ## Tools
 
 [Google Colab](https://colab.research.google.com)
@@ -23,3 +25,11 @@ The project is machine learning for seasonal marine heatwave forecasts. These no
 [xarray](http://xarray.pydata.org/en/stable/)
 
 [json](https://docs.python.org/3/library/json.html)
+
+[scikit-learn](https://scikit-learn.org/stable/)
+
+[pandas](https://pandas.pydata.org/)
+
+[GeoPandas](https://geopandas.org/)
+
+[DLG](https://www.dgl.ai/)
