@@ -1,6 +1,6 @@
-# Graph Neural Network and Convolutional Neural Network for Marine Heatwave Forecasting
+# Graph Neural Network and Convolutional Neural Network for Sea Temperature Anomaly Forecasting
 
-The project is machine learning for seasonal marine heatwave forecasts. These notebooks are used in the exploratory stage.
+The project is machine learning for seasonal sea temperature anomaly forecasts. These notebooks are used in the exploratory stage.
 
 ## Datset
 
