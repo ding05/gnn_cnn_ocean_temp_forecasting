@@ -1,6 +1,6 @@
-# Graph Neural Network and Convolutional Neural Network for Sea Temperature Anomaly Forecasting
+# Graph Neural Network and Convolutional Neural Network for Ocean Temperature Anomaly Forecasting
 
-The project is machine learning for seasonal sea temperature anomaly forecasts. These notebooks are used in the exploratory stage.
+The project is machine learning for seasonal ocean temperature anomaly forecasts. These notebooks are used in the exploratory stage.
 
 ## Datset
 
@@ -32,4 +32,4 @@ The project is machine learning for seasonal sea temperature anomaly forecasts. 
 
 [GeoPandas](https://geopandas.org/)
 
-[DLG](https://www.dgl.ai/)
+[DGL](https://www.dgl.ai/)
